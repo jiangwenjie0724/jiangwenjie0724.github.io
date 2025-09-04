@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | My Site</title>
+    <link>https://jiangwenjie0724.github.io/en/post/</link>
+      <atom:link href="https://jiangwenjie0724.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangwenjie0724.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://jiangwenjie0724.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://jiangwenjie0724.github.io/en/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;weekly-results&#34;&gt;Weekly Results&lt;/h2&gt;
+&lt;p&gt;The first week of September marked the beginning of a new academic stage:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Attended introductory classes at the university.&lt;/li&gt;
+&lt;li&gt;Organized materials for the discrete mathematics course.&lt;/li&gt;
+&lt;li&gt;Learned the basics of working with Jupyter Notebook for data analysis.&lt;/li&gt;
+&lt;li&gt;Prepared a presentation for an academic seminar.&lt;/li&gt;
+&lt;li&gt;Compiled a list of long-term semester goals related to programming and research.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://jiangwenjie0724.github.io/en/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;weekly-results&#34;&gt;Weekly Results&lt;/h2&gt;
+&lt;p&gt;The fourth week of August helped to consolidate and expand knowledge:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Started exploring the Pandas library for data analysis.&lt;/li&gt;
+&lt;li&gt;Studied the basics of graph theory and implemented several algorithms in Python.&lt;/li&gt;
+&lt;li&gt;Prepared a brief review of a scientific paper on machine learning.&lt;/li&gt;
+&lt;li&gt;Conducted an independent study on the efficiency of sorting algorithms.&lt;/li&gt;
+&lt;li&gt;Drew up a study plan for September, including additional reading.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://jiangwenjie0724.github.io/en/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;weekly-results&#34;&gt;Weekly Results&lt;/h2&gt;
+&lt;p&gt;The third week of August brought new achievements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Studied the basics of working with the NumPy library for data analysis.&lt;/li&gt;
+&lt;li&gt;Read a chapter from a book on computational complexity theory.&lt;/li&gt;
+&lt;li&gt;Continued preparing for the fall semester by organizing lecture notes.&lt;/li&gt;
+&lt;li&gt;Delved deeper into version control systems and conflict resolution in Git.&lt;/li&gt;
+&lt;li&gt;Compiled a list of scientific conferences I would like to attend.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://jiangwenjie0724.github.io/en/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;weekly-results&#34;&gt;Weekly Results&lt;/h2&gt;
+&lt;p&gt;The second week of August was dedicated to developing practical skills:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solved problems on the LeetCode platform, focusing on dynamic programming.&lt;/li&gt;
+&lt;li&gt;Learned the basics of working with databases and started studying SQL.&lt;/li&gt;
+&lt;li&gt;Prepared a reading plan on artificial intelligence literature for the upcoming month.&lt;/li&gt;
+&lt;li&gt;Analyzed my own trial programs, identified, and corrected algorithmic errors.&lt;/li&gt;
+&lt;li&gt;Started working on a small study project related to text analysis.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://jiangwenjie0724.github.io/en/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;weekly-results&#34;&gt;Weekly Results&lt;/h2&gt;
+&lt;p&gt;The first week of August turned out to be eventful:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Began systematic revision of the algorithms course, focusing on sorting techniques and search methods.&lt;/li&gt;
+&lt;li&gt;Learned the basics of working with LaTeX for preparing academic documents.&lt;/li&gt;
+&lt;li&gt;Continued exploring GitHub and created a repository for study projects.&lt;/li&gt;
+&lt;li&gt;Read several papers on the application of machine learning in natural language processing.&lt;/li&gt;
+&lt;li&gt;Discussed potential topics for future research with a fellow student.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

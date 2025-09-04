@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio | Мой сайт</title>
+    <link>https://jiangwenjie0724.github.io/tags/portfolio/</link>
+      <atom:link href="https://jiangwenjie0724.github.io/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Portfolio</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangwenjie0724.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Portfolio</title>
+      <link>https://jiangwenjie0724.github.io/tags/portfolio/</link>
+    </image>
+    
+    <item>
+      <title>Личный сайт учёного с Hugo Academic</title>
+      <link>https://jiangwenjie0724.github.io/project/hugo/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Создание личного сайта для исследователя становится важной частью академической деятельности. Онлайн-портфолио помогает представить научные достижения, публикации, проекты и образовательный опыт в структурированной форме.&lt;/p&gt;
+&lt;p&gt;Одним из удобных инструментов для этой задачи является &lt;strong&gt;Hugo Academic&lt;/strong&gt; – тема для статического генератора сайтов Hugo, ориентированная на академическое сообщество.&lt;/p&gt;
+&lt;h2 id=&#34;основные-преимущества&#34;&gt;Основные преимущества&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Простота установки и настройки.&lt;/li&gt;
+&lt;li&gt;Поддержка профилей из Google Scholar, ORCID, ResearchGate и других научных платформ.&lt;/li&gt;
+&lt;li&gt;Возможность публикации статей, блогов и презентаций.&lt;/li&gt;
+&lt;li&gt;Гибкая структура разделов: образование, проекты, награды, конференции.&lt;/li&gt;
+&lt;li&gt;Совместимость с современными практиками верстки и системами контроля версий.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;практическое-применение&#34;&gt;Практическое применение&lt;/h2&gt;
+&lt;p&gt;Hugo Academic позволяет студентам и исследователям создавать собственное академическое портфолио без глубоких знаний веб-разработки. Достаточно базовых навыков работы с Git и понимания структуры Markdown-файлов.&lt;/p&gt;
+&lt;p&gt;Сайт может служить визитной карточкой для участия в конференциях, подачи заявок на гранты или демонстрации исследовательских результатов широкой аудитории.&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Личный сайт исследователя с использованием Hugo Academic – это не только инструмент самопрезентации, но и способ систематизации академического опыта. Такой подход способствует развитию научной карьеры и расширяет возможности для международного сотрудничества.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

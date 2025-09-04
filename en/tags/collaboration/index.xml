@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collaboration | My Site</title>
+    <link>https://jiangwenjie0724.github.io/en/tags/collaboration/</link>
+      <atom:link href="https://jiangwenjie0724.github.io/en/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Collaboration</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangwenjie0724.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Collaboration</title>
+      <link>https://jiangwenjie0724.github.io/en/tags/collaboration/</link>
+    </image>
+    
+    <item>
+      <title>Version Control</title>
+      <link>https://jiangwenjie0724.github.io/en/publication/01/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Version Control Systems (VCS) play a key role in modern software development. They enable tracking changes in code, collaborating on projects, and maintaining the integrity of software solutions.&lt;/p&gt;
+&lt;h2 id=&#34;core-functions-of-version-control&#34;&gt;Core Functions of Version Control&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Change history storage&lt;/strong&gt; – each modification is recorded, allowing a return to previous states of the project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaboration&lt;/strong&gt; – multiple developers can work on the same project in parallel, merging their results into a unified system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Branch management&lt;/strong&gt; – the ability to create parallel development branches for experiments or new features without risking the main version.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparency and accountability&lt;/strong&gt; – every edit has an author and a comment, which facilitates code auditing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;popular-version-control-systems&#34;&gt;Popular Version Control Systems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Git&lt;/strong&gt; – a distributed system that has become the industry standard due to its flexibility and performance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Subversion (SVN)&lt;/strong&gt; – a centralized system used in large-scale corporate projects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mercurial&lt;/strong&gt; – a system emphasizing simplicity and performance, also based on a distributed model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;application-of-git-in-education&#34;&gt;Application of Git in Education&lt;/h2&gt;
+&lt;p&gt;Git is widely used by students and researchers to organize study projects and academic work. Platforms like GitHub and GitLab provide convenient tools for repository publishing, documentation, and collaborative research.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Version control is a fundamental component of software development. It ensures reliability, transparency, and efficiency in project work, enabling both individual developers and entire teams to achieve high-quality results.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reports | My Site</title>
+    <link>https://jiangwenjie0724.github.io/en/tags/reports/</link>
+      <atom:link href="https://jiangwenjie0724.github.io/en/tags/reports/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reports</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangwenjie0724.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Reports</title>
+      <link>https://jiangwenjie0724.github.io/en/tags/reports/</link>
+    </image>
+    
+    <item>
+      <title>Preparing a Work Report</title>
+      <link>https://jiangwenjie0724.github.io/en/publication/03/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Preparing a report is an essential part of both academic and research activities. A well-structured report documents the workflow, obtained results, and conclusions, while also allowing the evaluation of the quality of the conducted research or experiment.&lt;/p&gt;
+&lt;h2 id=&#34;core-elements-of-a-report&#34;&gt;Core Elements of a Report&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Title page&lt;/strong&gt; – includes the report title, author’s details, institution, and date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt; – outlines the objectives and tasks of the research or project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Theoretical section&lt;/strong&gt; – describes the applied approaches, methods, and concepts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practical section&lt;/strong&gt; – contains a description of the experiment, research, or project implementation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Results and discussion&lt;/strong&gt; – presents the obtained data and their interpretation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt; – summarizes findings and suggests prospects for further work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;References&lt;/strong&gt; – lists the sources used during preparation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;tools-for-report-preparation&#34;&gt;Tools for Report Preparation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; – the standard in the academic community, ensuring professional typesetting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; – convenient for quick report preparation and collaborative work via Git.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Word/LibreOffice&lt;/strong&gt; – traditional office editors suitable for basic structure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;role-of-reports-in-academic-and-research-activities&#34;&gt;Role of Reports in Academic and Research Activities&lt;/h2&gt;
+&lt;p&gt;Reports serve several important functions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;consolidate the knowledge gained during the work;&lt;/li&gt;
+&lt;li&gt;allow instructors or supervisors to assess the level of material mastery;&lt;/li&gt;
+&lt;li&gt;serve as a foundation for subsequent research and projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Preparing a report requires not only clear presentation of content but also strict adherence to structure. The use of appropriate tools and attention to detail raise the academic quality of the work and make its results easier to understand.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

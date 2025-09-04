@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markup | Мой сайт</title>
+    <link>https://jiangwenjie0724.github.io/tags/markup/</link>
+      <atom:link href="https://jiangwenjie0724.github.io/tags/markup/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markup</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangwenjie0724.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markup</title>
+      <link>https://jiangwenjie0724.github.io/tags/markup/</link>
+    </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://jiangwenjie0724.github.io/publication/02/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/publication/02/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки (lightweight markup languages) представляют собой удобные инструменты для структурирования текста с минимальными синтаксическими средствами. Они используются в блогах, технической документации, научных публикациях и образовательных материалах. Их основное преимущество заключается в простоте записи и удобстве последующей конвертации в различные форматы.&lt;/p&gt;
+&lt;h2 id=&#34;основные-особенности&#34;&gt;Основные особенности&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Минимализм синтаксиса&lt;/strong&gt; – разметка легко читается в исходном виде.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкость экспорта&lt;/strong&gt; – возможность преобразования в HTML, PDF, DOCX и другие форматы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Универсальность&lt;/strong&gt; – применение в научной сфере, программировании и документообороте.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Совместимость с системами контроля версий&lt;/strong&gt; – такие тексты удобно хранить в репозиториях Git.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;примеры-легковесных-языков-разметки&#34;&gt;Примеры легковесных языков разметки&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; – наиболее популярный язык, применяемый в GitHub, документации проектов и блогах.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt; – используется в экосистеме Python, в частности для генерации документации Sphinx.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AsciiDoc&lt;/strong&gt; – язык с расширенными возможностями, применяемый для технической документации.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Textile&lt;/strong&gt; – одна из ранних систем, применявшаяся в блогах и CMS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;применение-в-академической-среде&#34;&gt;Применение в академической среде&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки позволяют студентам и исследователям быстро готовить отчёты, статьи и презентации. Сочетание Markdown и LaTeX обеспечивает баланс между простотой и научной строгостью оформления. Благодаря этому можно оперативно создавать академические портфолио, лабораторные отчёты и публикации.&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки стали неотъемлемой частью современной цифровой среды. Они объединяют простоту использования и широкие возможности форматирования, что делает их эффективным инструментом как для профессиональных разработчиков, так и для студентов и исследователей.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

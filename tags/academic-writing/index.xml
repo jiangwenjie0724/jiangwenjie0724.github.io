@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Writing | Мой сайт</title>
+    <link>https://jiangwenjie0724.github.io/tags/academic-writing/</link>
+      <atom:link href="https://jiangwenjie0724.github.io/tags/academic-writing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic Writing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangwenjie0724.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic Writing</title>
+      <link>https://jiangwenjie0724.github.io/tags/academic-writing/</link>
+    </image>
+    
+    <item>
+      <title>Подготовка отчета по работе</title>
+      <link>https://jiangwenjie0724.github.io/publication/03/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/publication/03/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Подготовка отчёта по работе является неотъемлемой частью учебной и исследовательской деятельности. Грамотно составленный отчёт фиксирует ход работы, полученные результаты и выводы, а также позволяет оценить качество проведённого исследования или эксперимента.&lt;/p&gt;
+&lt;h2 id=&#34;основные-элементы-отчёта&#34;&gt;Основные элементы отчёта&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Титульная страница&lt;/strong&gt; – включает название работы, данные автора, учреждение и дату.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Введение&lt;/strong&gt; – формулирует цели и задачи исследования или проекта.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Теоретическая часть&lt;/strong&gt; – описывает используемые подходы, методы и концепции.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Практическая часть&lt;/strong&gt; – содержит описание эксперимента, исследования или реализации проекта.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Результаты и обсуждение&lt;/strong&gt; – представляет полученные данные и их интерпретацию.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Заключение&lt;/strong&gt; – формулирует выводы и перспективы дальнейшей работы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Список литературы&lt;/strong&gt; – фиксирует источники, использованные в процессе подготовки.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;инструменты-подготовки-отчётов&#34;&gt;Инструменты подготовки отчётов&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; – стандарт для научного сообщества, обеспечивающий строгую типографику.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; – удобен для быстрой подготовки отчётов и совместной работы через Git.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Word/LibreOffice&lt;/strong&gt; – традиционные офисные редакторы, подходящие для базовой структуры.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;роль-отчёта-в-образовательной-и-научной-деятельности&#34;&gt;Роль отчёта в образовательной и научной деятельности&lt;/h2&gt;
+&lt;p&gt;Отчёт выполняет сразу несколько функций:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;закрепляет знания, полученные в ходе работы;&lt;/li&gt;
+&lt;li&gt;позволяет преподавателю или руководителю оценить степень усвоения материала;&lt;/li&gt;
+&lt;li&gt;служит базой для последующих исследований и проектов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Подготовка отчёта требует не только грамотного изложения содержания, но и строгого соблюдения структуры. Использование подходящих инструментов и внимание к деталям повышает академический уровень работы и облегчает восприятие её результатов.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

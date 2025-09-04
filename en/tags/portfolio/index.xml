@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio | My Site</title>
+    <link>https://jiangwenjie0724.github.io/en/tags/portfolio/</link>
+      <atom:link href="https://jiangwenjie0724.github.io/en/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Portfolio</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangwenjie0724.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Portfolio</title>
+      <link>https://jiangwenjie0724.github.io/en/tags/portfolio/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://jiangwenjie0724.github.io/en/project/hugo/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Creating a personal website has become an essential part of academic activity. An online portfolio helps to present research achievements, publications, projects, and educational background in a structured format.&lt;/p&gt;
+&lt;p&gt;One of the convenient tools for this task is &lt;strong&gt;Hugo Academic&lt;/strong&gt; — a theme for the Hugo static site generator designed for the academic community.&lt;/p&gt;
+&lt;h2 id=&#34;key-advantages&#34;&gt;Key Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy installation and configuration.&lt;/li&gt;
+&lt;li&gt;Integration with profiles from Google Scholar, ORCID, ResearchGate, and other academic platforms.&lt;/li&gt;
+&lt;li&gt;Ability to publish articles, blogs, and presentations.&lt;/li&gt;
+&lt;li&gt;Flexible structure with sections for education, projects, awards, and conferences.&lt;/li&gt;
+&lt;li&gt;Compatibility with modern publishing practices and version control systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;practical-application&#34;&gt;Practical Application&lt;/h2&gt;
+&lt;p&gt;Hugo Academic enables students and researchers to build their own academic portfolios without deep knowledge of web development. Basic Git skills and an understanding of Markdown files are sufficient.&lt;/p&gt;
+&lt;p&gt;A personal website can serve as a business card for conference participation, grant applications, or presenting research outcomes to a broader audience.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;A researcher’s personal website created with Hugo Academic is not only a tool for self-presentation but also a means of systematizing academic experience. This approach fosters academic career development and broadens opportunities for international collaboration.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collaboration | Мой сайт</title>
+    <link>https://jiangwenjie0724.github.io/tags/collaboration/</link>
+      <atom:link href="https://jiangwenjie0724.github.io/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Collaboration</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangwenjie0724.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Collaboration</title>
+      <link>https://jiangwenjie0724.github.io/tags/collaboration/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями</title>
+      <link>https://jiangwenjie0724.github.io/publication/01/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/publication/01/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Системы управления версиями (Version Control Systems, VCS) играют ключевую роль в современной разработке программного обеспечения. Они позволяют отслеживать изменения в коде, работать в команде над проектами и поддерживать целостность программных решений.&lt;/p&gt;
+&lt;h2 id=&#34;основные-задачи-управления-версиями&#34;&gt;Основные задачи управления версиями&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Хранение истории изменений&lt;/strong&gt; – каждая модификация фиксируется, что позволяет вернуться к предыдущим состояниям проекта.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Совместная работа&lt;/strong&gt; – несколько разработчиков могут параллельно работать над одним проектом, объединяя результаты в единую систему.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Управление ветками&lt;/strong&gt; – возможность создания параллельных веток разработки для экспериментов или новых функций без риска повредить основную версию.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Прозрачность и контроль&lt;/strong&gt; – каждая правка имеет автора и комментарий, что облегчает аудит кода.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;популярные-системы-управления-версиями&#34;&gt;Популярные системы управления версиями&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Git&lt;/strong&gt; – распределённая система, ставшая стандартом в индустрии благодаря своей гибкости и скорости работы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Subversion (SVN)&lt;/strong&gt; – централизованная система, применяемая в крупных корпоративных проектах.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mercurial&lt;/strong&gt; – система с акцентом на простоту и производительность, использующая распределённую модель.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;применение-git-в-образовательной-среде&#34;&gt;Применение Git в образовательной среде&lt;/h2&gt;
+&lt;p&gt;Git активно используется студентами и исследователями для организации учебных проектов и исследовательской работы. GitHub и GitLab предоставляют удобные платформы для публикации репозиториев, ведения документации и организации совместных исследований.&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Управление версиями является фундаментальным элементом разработки программного обеспечения. Оно обеспечивает надёжность, прозрачность и эффективность работы над проектами, позволяя как отдельным разработчикам, так и целым командам достигать высоких результатов.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

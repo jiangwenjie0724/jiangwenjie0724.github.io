@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific Computing | My Site</title>
+    <link>https://jiangwenjie0724.github.io/en/tags/scientific-computing/</link>
+      <atom:link href="https://jiangwenjie0724.github.io/en/tags/scientific-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scientific Computing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangwenjie0724.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Scientific Computing</title>
+      <link>https://jiangwenjie0724.github.io/en/tags/scientific-computing/</link>
+    </image>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>https://jiangwenjie0724.github.io/en/publication/04/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Scientific programming is a field that employs specialized languages and tools for solving problems in modeling, data analysis, and numerical computation. The choice of language depends both on the specific requirements of the discipline and on the demands for precision and computational speed.&lt;/p&gt;
+&lt;h2 id=&#34;major-scientific-programming-languages&#34;&gt;Major Scientific Programming Languages&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Fortran&lt;/strong&gt; – one of the oldest languages, focused on numerical computation and still used in engineering and physics tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MATLAB&lt;/strong&gt; – a popular environment and language for data processing, numerical modeling, and visualization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; – a versatile language with a rich ecosystem of libraries (NumPy, SciPy, Pandas, Matplotlib) that has become a standard in scientific research and data analysis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; – a language for statistical computing and data analysis, widely applied in bioinformatics and the social sciences.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; – a modern language combining simple syntax with high performance, suitable for computational mathematics and modeling.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;applications-in-academia&#34;&gt;Applications in Academia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Solving numerical problems in physics and engineering.&lt;/li&gt;
+&lt;li&gt;Analyzing large datasets in economics, medicine, and social sciences.&lt;/li&gt;
+&lt;li&gt;Modeling biological systems and processes.&lt;/li&gt;
+&lt;li&gt;Preparing scientific publications and reproducible experiments using open-source libraries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;criteria-for-choosing-a-language&#34;&gt;Criteria for Choosing a Language&lt;/h2&gt;
+&lt;p&gt;When selecting a scientific programming language, researchers consider:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;computational performance;&lt;/li&gt;
+&lt;li&gt;availability of libraries and tools;&lt;/li&gt;
+&lt;li&gt;ease of integration with existing systems;&lt;/li&gt;
+&lt;li&gt;community size and support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages form the foundation of modern research activity. They enable solving tasks of varying complexity — from simple statistical computations to high-performance calculations on supercomputers. Mastering these languages opens broad opportunities for students and researchers across diverse scientific fields.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

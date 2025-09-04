@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Публикации | My Site</title>
+    <link>https://jiangwenjie0724.github.io/en/publication/</link>
+      <atom:link href="https://jiangwenjie0724.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Публикации</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangwenjie0724.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Публикации</title>
+      <link>https://jiangwenjie0724.github.io/en/publication/</link>
+    </image>
+    
+    <item>
+      <title>Lightweight Markup Languages</title>
+      <link>https://jiangwenjie0724.github.io/en/publication/02/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages are convenient tools for structuring text with minimal syntax. They are widely used in blogs, technical documentation, academic publications, and educational materials. Their main advantage lies in their simplicity of writing and the ease of converting content into multiple formats.&lt;/p&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Minimal syntax&lt;/strong&gt; – the markup is easily readable in its raw form.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible export&lt;/strong&gt; – capability to convert text into HTML, PDF, DOCX, and other formats.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Versatility&lt;/strong&gt; – applied in academia, programming, and document management.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Version control compatibility&lt;/strong&gt; – such texts are convenient to store in Git repositories.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;examples-of-lightweight-markup-languages&#34;&gt;Examples of Lightweight Markup Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; – the most popular language, used on GitHub, in project documentation, and blogs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt; – widely adopted in the Python ecosystem, particularly for generating documentation with Sphinx.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AsciiDoc&lt;/strong&gt; – a language with extended features, often used for technical documentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Textile&lt;/strong&gt; – one of the earlier systems, used in blogs and CMS platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;use-in-academia&#34;&gt;Use in Academia&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages enable students and researchers to quickly prepare reports, articles, and presentations. Combining Markdown with LaTeX ensures a balance between simplicity and academic rigor. This approach allows for the efficient creation of academic portfolios, lab reports, and publications.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages have become an integral part of the modern digital environment. They combine ease of use with wide formatting capabilities, making them effective tools for both professional developers and academic researchers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparing a Work Report</title>
+      <link>https://jiangwenjie0724.github.io/en/publication/03/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Preparing a report is an essential part of both academic and research activities. A well-structured report documents the workflow, obtained results, and conclusions, while also allowing the evaluation of the quality of the conducted research or experiment.&lt;/p&gt;
+&lt;h2 id=&#34;core-elements-of-a-report&#34;&gt;Core Elements of a Report&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Title page&lt;/strong&gt; – includes the report title, author’s details, institution, and date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt; – outlines the objectives and tasks of the research or project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Theoretical section&lt;/strong&gt; – describes the applied approaches, methods, and concepts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practical section&lt;/strong&gt; – contains a description of the experiment, research, or project implementation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Results and discussion&lt;/strong&gt; – presents the obtained data and their interpretation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt; – summarizes findings and suggests prospects for further work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;References&lt;/strong&gt; – lists the sources used during preparation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;tools-for-report-preparation&#34;&gt;Tools for Report Preparation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; – the standard in the academic community, ensuring professional typesetting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; – convenient for quick report preparation and collaborative work via Git.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Word/LibreOffice&lt;/strong&gt; – traditional office editors suitable for basic structure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;role-of-reports-in-academic-and-research-activities&#34;&gt;Role of Reports in Academic and Research Activities&lt;/h2&gt;
+&lt;p&gt;Reports serve several important functions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;consolidate the knowledge gained during the work;&lt;/li&gt;
+&lt;li&gt;allow instructors or supervisors to assess the level of material mastery;&lt;/li&gt;
+&lt;li&gt;serve as a foundation for subsequent research and projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Preparing a report requires not only clear presentation of content but also strict adherence to structure. The use of appropriate tools and attention to detail raise the academic quality of the work and make its results easier to understand.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>https://jiangwenjie0724.github.io/en/publication/04/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Scientific programming is a field that employs specialized languages and tools for solving problems in modeling, data analysis, and numerical computation. The choice of language depends both on the specific requirements of the discipline and on the demands for precision and computational speed.&lt;/p&gt;
+&lt;h2 id=&#34;major-scientific-programming-languages&#34;&gt;Major Scientific Programming Languages&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Fortran&lt;/strong&gt; – one of the oldest languages, focused on numerical computation and still used in engineering and physics tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MATLAB&lt;/strong&gt; – a popular environment and language for data processing, numerical modeling, and visualization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; – a versatile language with a rich ecosystem of libraries (NumPy, SciPy, Pandas, Matplotlib) that has become a standard in scientific research and data analysis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; – a language for statistical computing and data analysis, widely applied in bioinformatics and the social sciences.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; – a modern language combining simple syntax with high performance, suitable for computational mathematics and modeling.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;applications-in-academia&#34;&gt;Applications in Academia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Solving numerical problems in physics and engineering.&lt;/li&gt;
+&lt;li&gt;Analyzing large datasets in economics, medicine, and social sciences.&lt;/li&gt;
+&lt;li&gt;Modeling biological systems and processes.&lt;/li&gt;
+&lt;li&gt;Preparing scientific publications and reproducible experiments using open-source libraries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;criteria-for-choosing-a-language&#34;&gt;Criteria for Choosing a Language&lt;/h2&gt;
+&lt;p&gt;When selecting a scientific programming language, researchers consider:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;computational performance;&lt;/li&gt;
+&lt;li&gt;availability of libraries and tools;&lt;/li&gt;
+&lt;li&gt;ease of integration with existing systems;&lt;/li&gt;
+&lt;li&gt;community size and support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages form the foundation of modern research activity. They enable solving tasks of varying complexity — from simple statistical computations to high-performance calculations on supercomputers. Mastering these languages opens broad opportunities for students and researchers across diverse scientific fields.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-Education in the Digital Age</title>
+      <link>https://jiangwenjie0724.github.io/en/publication/05/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Modern digital technologies have radically transformed approaches to education. Today, students and researchers have access to vast online resources, courses, and academic databases, which provide broad opportunities for self-education.&lt;/p&gt;
+&lt;h2 id=&#34;main-directions-of-self-education&#34;&gt;Main Directions of Self-Education&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Online courses and lectures&lt;/strong&gt; – platforms such as Coursera, edX, and Stepik provide high-quality educational content across various disciplines.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Academic databases and repositories&lt;/strong&gt; – open resources such as arXiv and eLibrary allow access to up-to-date research.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practical learning&lt;/strong&gt; – using GitHub and other platforms to publish projects and share experience.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language learning&lt;/strong&gt; – digital tools accelerate the acquisition of foreign languages, essential for academic activity.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;advantages-of-digital-self-education&#34;&gt;Advantages of Digital Self-Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Flexibility and an individual pace of learning.&lt;/li&gt;
+&lt;li&gt;Access to global educational resources.&lt;/li&gt;
+&lt;li&gt;The possibility of combining learning with practical activity.&lt;/li&gt;
+&lt;li&gt;Development of independent search and analytical skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;limitations-and-challenges&#34;&gt;Limitations and Challenges&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Information overload and the need to filter sources.&lt;/li&gt;
+&lt;li&gt;Lack of live interaction and discussions.&lt;/li&gt;
+&lt;li&gt;High demands on self-organization and discipline.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Self-education in the digital age is becoming an integral element of academic training. It fosters critical thinking, independent knowledge acquisition, and adaptability to the rapidly changing conditions of the academic environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control</title>
+      <link>https://jiangwenjie0724.github.io/en/publication/01/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Version Control Systems (VCS) play a key role in modern software development. They enable tracking changes in code, collaborating on projects, and maintaining the integrity of software solutions.&lt;/p&gt;
+&lt;h2 id=&#34;core-functions-of-version-control&#34;&gt;Core Functions of Version Control&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Change history storage&lt;/strong&gt; – each modification is recorded, allowing a return to previous states of the project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaboration&lt;/strong&gt; – multiple developers can work on the same project in parallel, merging their results into a unified system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Branch management&lt;/strong&gt; – the ability to create parallel development branches for experiments or new features without risking the main version.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transparency and accountability&lt;/strong&gt; – every edit has an author and a comment, which facilitates code auditing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;popular-version-control-systems&#34;&gt;Popular Version Control Systems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Git&lt;/strong&gt; – a distributed system that has become the industry standard due to its flexibility and performance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Subversion (SVN)&lt;/strong&gt; – a centralized system used in large-scale corporate projects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mercurial&lt;/strong&gt; – a system emphasizing simplicity and performance, also based on a distributed model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;application-of-git-in-education&#34;&gt;Application of Git in Education&lt;/h2&gt;
+&lt;p&gt;Git is widely used by students and researchers to organize study projects and academic work. Platforms like GitHub and GitLab provide convenient tools for repository publishing, documentation, and collaborative research.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Version control is a fundamental component of software development. It ensures reliability, transparency, and efficiency in project work, enabling both individual developers and entire teams to achieve high-quality results.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

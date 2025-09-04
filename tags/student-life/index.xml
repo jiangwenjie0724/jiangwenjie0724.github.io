@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Life | Мой сайт</title>
+    <link>https://jiangwenjie0724.github.io/tags/student-life/</link>
+      <atom:link href="https://jiangwenjie0724.github.io/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Life</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangwenjie0724.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Student Life</title>
+      <link>https://jiangwenjie0724.github.io/tags/student-life/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://jiangwenjie0724.github.io/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/post/05/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Первая неделя сентября ознаменовалась началом нового учебного этапа:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Присутствовал на установочных занятиях в университете.&lt;/li&gt;
+&lt;li&gt;Систематизировал материалы по курсу дискретной математики.&lt;/li&gt;
+&lt;li&gt;Освоил основы работы с Jupyter Notebook для анализа данных.&lt;/li&gt;
+&lt;li&gt;Подготовил презентацию для учебного семинара.&lt;/li&gt;
+&lt;li&gt;Сформировал список долгосрочных целей на семестр, связанных с программированием и исследованиями.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://jiangwenjie0724.github.io/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/post/04/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Четвёртая неделя августа позволила закрепить и расширить знания:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Начал знакомство с библиотекой Pandas для анализа данных.&lt;/li&gt;
+&lt;li&gt;Изучил основы теории графов и реализовал несколько алгоритмов на Python.&lt;/li&gt;
+&lt;li&gt;Подготовил краткий обзор научной статьи по машинному обучению.&lt;/li&gt;
+&lt;li&gt;Провёл самостоятельное исследование по анализу эффективности алгоритмов сортировки.&lt;/li&gt;
+&lt;li&gt;Составил план занятий на сентябрь, включая чтение дополнительной литературы.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://jiangwenjie0724.github.io/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/post/03/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Третья неделя августа принесла новые результаты:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучил основы работы с библиотекой NumPy для анализа данных.&lt;/li&gt;
+&lt;li&gt;Прочитал главу из книги по теории вычислительной сложности.&lt;/li&gt;
+&lt;li&gt;Продолжил подготовку к осеннему семестру, систематизируя конспекты.&lt;/li&gt;
+&lt;li&gt;Углубился в работу с системами контроля версий и разрешение конфликтов в Git.&lt;/li&gt;
+&lt;li&gt;Составил список научных конференций, в которых хотел бы принять участие.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://jiangwenjie0724.github.io/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/post/02/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Вторая неделя августа была посвящена развитию практических навыков:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Решал задачи на платформе LeetCode, уделив внимание динамическому программированию.&lt;/li&gt;
+&lt;li&gt;Освоил основы работы с базами данных, начал изучать SQL.&lt;/li&gt;
+&lt;li&gt;Составил план чтения литературы по искусственному интеллекту на ближайший месяц.&lt;/li&gt;
+&lt;li&gt;Провёл анализ собственных пробных программ, выявил и исправил ошибки в алгоритмах.&lt;/li&gt;
+&lt;li&gt;Начал работать над небольшим учебным проектом по анализу текстов.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://jiangwenjie0724.github.io/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenjie0724.github.io/post/01/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Первая неделя августа оказалась насыщенной:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Начал систематическое повторение курса по алгоритмам, уделяя внимание сортировкам и методам поиска.&lt;/li&gt;
+&lt;li&gt;Освоил основы работы с LaTeX для подготовки научных документов.&lt;/li&gt;
+&lt;li&gt;Продолжил знакомство с GitHub, создал репозиторий для учебных проектов.&lt;/li&gt;
+&lt;li&gt;Прочитал несколько статей по применению машинного обучения в обработке естественного языка.&lt;/li&gt;
+&lt;li&gt;Совместно с одногруппником обсудили возможные темы для будущих исследований.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
